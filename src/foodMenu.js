@@ -1,13 +1,7 @@
 export default function foodMenu() {
   const products = ['Sushi', 'Sashimi', 'Rolls', 'Sets', 'Drinks', 'Desserts'];
-  const productsUrls = [
-    'images/sushi.jpeg',
-    'images/sashimi.jpeg',
-    'images/rolls.jpeg',
-    'images/sets.jpg',
-    'images/drinks.jpg',
-    'images/dessert.jpeg',
-  ];
+  const productsUrls = ['images/sushi.jpeg', 'images/sashimi.jpeg', 'images/rolls.jpeg', 'images/sets.jpg', 'images/drinks.jpg', 'images/dessert.jpeg'];
+
 
   const menuSelected = document.getElementById('menu');
   menuSelected.classList.add('menu-item-selected');
