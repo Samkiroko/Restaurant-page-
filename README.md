@@ -6,19 +6,19 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/uryelah/Microverse-603-restaurant-page">
+  <a href="#">
     <img src="dist/images/micro.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Restaurant page -
-  <a href='https://uryelah.github.io/Microverse-603-restaurant-page/#'> Live version</a></h3>
+  <h3 align="center">Restaurant page with webpack
+  </h3>
 
   <p align="center">
     This project is part of the Microverse Javacript Section!
     <br />
-    <a href="https://github.com/uryelah/Microverse-603-restaurant-page">Report Bug</a>
+    <a href="https://github.com/Samkiroko/Restaurant-page-">Report Bug</a>
     ·
-    <a href="https://github.com/uryelah/Microverse-603-restaurant-page">Request Feature</a>
+    <a href="https://github.com/Samkiroko/Restaurant-page-">Request Feature</a>
   </p>
 </p>
 
@@ -29,7 +29,7 @@
 - [About The Project](#about-the-project)
 - [Installation](#installation)
   - [Built With](#built-with)
-- [Contact](#contact)
+- [Authors](#authors)
 - [Acknowledgements](#acknowledgements)
 
 <!-- ABOUT THE PROJECT -->
@@ -45,7 +45,7 @@ Each tab('home', 'contact', 'about', 'menu') is in its own javascript file at /s
 <!-- ABOUT THE PROJECT -->
 ## Installation
 
-Download or clone the [repo here](https://github.com/uryelah/Microverse-603-restaurant-page.git), enter the directory in the terminal and run the commands:
+Download or clone the [repo here](https://github.com/Samkiroko/Restaurant-page-.git), enter the directory in the terminal and run the commands:
 * `npm i`
 * `npm run start`
 Your default browser should open the app at the localhost:8080
@@ -58,15 +58,13 @@ This project was built using these technologies.
 * Webpack
 
 <!-- CONTACT -->
-## Contact
+## Authors
 
-👤 **Sarah Uryelah Silva Chamorro**
+👤 **Samuel kiroko N**
 
-- Github: [@uryelah](https://github.com/uryelah)
-- Twitter: [@sarah_chamorro](https://twitter.com/sarah_chamorro)
-- Linkedin: [Sharah Chamorro](https://www.linkedin.com/in/uryelah/)
-- Email: [sarahchamorro@gmail.com](sarahchamorro@gmail.com)
-
+- Twitter: [@kirokonjenga](https://twitter.com/kirokonjenga)
+- LinkedIn: [@samuel-kiroko](https://www.linkedin.com/in/samuel-kiroko/)
+- Personal Website: [kiroko.tech](https://www.kiroko.tech/)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
@@ -76,13 +74,13 @@ This project was built using these technologies.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/uryelah/Microverse-603-restaurant-page.svg?style=flat-square
-[contributors-url]: https://github.com/uryelah/Microverse-603-restaurant-page/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/uryelah/Microverse-603-restaurant-page.svg?style=flat-square
-[forks-url]: https://github.com/uryelah/Microverse-603-restaurant-page/network/members
-[stars-shield]: https://img.shields.io/github/stars/uryelah/Microverse-603-restaurant-page.svg?style=flat-square
-[stars-url]: https://github.com/uryelah/Microverse-603-restaurant-page/stargazers
-[issues-shield]: https://img.shields.io/github/issues/uryelah/Microverse-603-restaurant-page.svg?style=flat-square
-[issues-url]: https://github.com/uryelah/Microverse-603-restaurant-page
+[contributors-shield]: https://img.shields.io/github/contributors/Samkiroko/Restaurant-page-.svg?style=flat-square
+[contributors-url]: https://github.com/Samkiroko/Restaurant-page-/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Samkiroko/Restaurant-page-.svg?style=flat-square
+[forks-url]: https://github.com/Samkiroko/Restaurant-page-/network/members
+[stars-shield]: https://img.shields.io/github/stars/Samkiroko/Restaurant-page-.svg?style=flat-square
+[stars-url]: https://github.com/Samkiroko/Restaurant-page-/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Samkiroko/Restaurant-page-.svg?style=flat-square
+[issues-url]: https://github.com/Samkiroko/Restaurant-page-
 [product-screenshot]: img/screenshot.PNG
 
