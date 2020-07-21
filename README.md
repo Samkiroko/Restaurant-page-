@@ -6,12 +6,13 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="#">
+  <a href="https://lucid-visvesvaraya-2281c3.netlify.app/">
     <img src="dist/images/micro.png" alt="Logo" width="80" height="80">
   </a>
-
-  <h3 align="center">Restaurant page with webpack
+ <a href= "https://lucid-visvesvaraya-2281c3.netlify.app/">
+  <h3 align="center">Restaurant page with webpack live demo
   </h3>
+  </a>
 
   <p align="center">
     This project is part of the Microverse Javacript Section!
@@ -23,6 +24,7 @@
 </p>
 
 <!-- TABLE OF CONTENTS -->
+
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
@@ -33,6 +35,7 @@
 - [Acknowledgements](#acknowledgements)
 
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 This project is a dynamically rendered restaurant page.
@@ -41,21 +44,26 @@ Each tab('home', 'location', 'about', 'foodMenu') is in its own javascript file 
 ![image](https://user-images.githubusercontent.com/43377799/87997140-eb82ab00-cafc-11ea-9255-dbcb1b0861c0.png)
 
 <!-- ABOUT THE PROJECT -->
+
 ## Installation
 
 Download or clone the [repo here](https://github.com/Samkiroko/Restaurant-page-.git), enter the directory in the terminal and run the commands:
-* `npm i`
-* `npm run start`
-Your default browser should open the app at the localhost:8080
+
+- `npm i`
+- `npm run start`
+  Your default browser should open the app at the localhost:8080
 
 ### Built With
+
 This project was built using these technologies.
-* HTML
-* CSS3
-* Vanila Javascript
-* Webpack
+
+- HTML
+- CSS3
+- Vanila Javascript
+- Webpack
 
 <!-- CONTACT -->
+
 ## Authors
 
 👤 **Samuel kiroko N**
@@ -65,13 +73,16 @@ This project was built using these technologies.
 - Personal Website: [kiroko.tech](https://www.kiroko.tech/)
 
 <!-- ACKNOWLEDGEMENTS -->
+
 ## Acknowledgements
-* [Microverse](https://www.microverse.org/)
-* [The Odin Project](https://www.theodinproject.com/)
-* [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+- [Microverse](https://www.microverse.org/)
+- [The Odin Project](https://www.theodinproject.com/)
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/Samkiroko/Restaurant-page-.svg?style=flat-square
 [contributors-url]: https://github.com/Samkiroko/Restaurant-page-/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Samkiroko/Restaurant-page-.svg?style=flat-square
@@ -81,4 +92,3 @@ This project was built using these technologies.
 [issues-shield]: https://img.shields.io/github/issues/Samkiroko/Restaurant-page-.svg?style=flat-square
 [issues-url]: https://github.com/Samkiroko/Restaurant-page-
 [product-screenshot]: img/screenshot.PNG
-
