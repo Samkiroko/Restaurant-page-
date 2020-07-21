@@ -13,13 +13,7 @@
     "no-shadow": "off",
     "no-param-reassign": "off",
     "eol-last": "off",
-    "arrow-parens": "off",
-    "no-use-before-define": "off",
-    "max-classes-per-file": "off",
-    "no-unused-vars": "off",
-    "no-plusplus": "off",
-    "eqeqeq": "off",
-    "max-len": "off"
+    "arrow-parens": "off"
   },
   "ignorePatterns": ["dist/", "build/"]
 }
